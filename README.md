@@ -40,7 +40,7 @@
 ```mermaid
 graph LR
     A[Input Image or Video Frame] --> B[YOLOv8: Detect Vehicles]
-    B --> C[Crop Vehicle Regions]
+    B --> C[Crop Vehicle Regions and detect it's type]
     C --> D[Detect Number Plate Region]
     D --> E[Apply OCR on Plate]
     E --> F[Extracted Plate Number]
