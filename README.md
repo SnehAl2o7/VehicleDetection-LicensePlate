@@ -1,4 +1,4 @@
-# 🚘 Vehicle & Number Plate Detection System 🔍
+# 🚘 Vehicle & License Number Plate Detection System 🔍
 
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple)
